@@ -37,7 +37,7 @@
   top: 44px;
 }
 
-.header-menu a:hover::before {
+.header-menu a:hover::before, .header-menu a.ativo::before {
   width: 100%;
 }
 
